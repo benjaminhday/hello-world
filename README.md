@@ -7,7 +7,7 @@ I'm currently completing online courses with the goal of becoming a Data Analyst
 Below are the courses I plan on taking including their completion status. As I discover more courses, I will add them to the table.
 | Course  | Provider  | Offered By  | Status   | CourseraPlus |
 | ---     | ---       | ---     | ---         | --- |
-| [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst) | coursera | IBM | Not Enrolled | N  |
+| [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) | coursera | Google | Not Enrolled | Y  |
 | [Learn SQL Basics for Data Science Specialization](https://www.coursera.org/specializations/learn-sql-basics-data-science) | coursera | UCDAVIS University of California | Not Enrolled | Y |
 | [Python for Everybody Specialization](https://www.coursera.org/specializations/python) | coursera | University of Michigan | Not Enrolled | Y |
 | [Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization) | coursera | UCDAVIS University of California | Not Enrolled | Y |
