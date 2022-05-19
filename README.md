@@ -18,6 +18,5 @@ Below are the optional courses.
 | ---     | ---       | ---     | ---         | --- |
 | [AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals) | coursera | aws | Not Enrolled | Y |
 | [Getting Started with Azure](https://www.coursera.org/learn/cloud-azure-intro) | coursera | LearnQuest | Not Enrolled | Y |
-| [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science) | coursera | IBM | Not Enrolled | N |
 | [Introduction to Data Science Specialization](https://www.coursera.org/specializations/introduction-data-science) | coursera | IBM | Not Enrolled | N |
 | [Introduction to Data Analysis Using Excel](https://www.coursera.org/learn/excel-data-analysis) | coursera | RICE | Not Enrolled | Y |
