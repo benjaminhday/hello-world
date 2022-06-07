@@ -2,7 +2,7 @@
 ## Welcome
 I'm currently completing online courses with the goal of becoming a Data Analyst.
 ## Professional History
-[LinkedIN - Ben Day](https://www.linkedin.com/in/benjaminhday/)
+[LinkedIn - Ben Day](https://www.linkedin.com/in/benjaminhday/)
 ## Courses
 Below are the courses I plan on taking including their completion status. As I discover more courses, I will add them to the table.
 | Course  | Provider  | Offered By  | Status   | CourseraPlus |
